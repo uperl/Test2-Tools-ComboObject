@@ -2,6 +2,34 @@
 
 Combine checks and diagnostics into a single test as an object
 
+# SYNOPSIS
+
+# DESCRIPTION
+
+# ATTRIBUTES
+
+## context
+
+## name
+
+## status
+
+# FUNCTIONS
+
+## combo
+
+# METHODS
+
+## finish
+
+## log
+
+## pass
+
+## fail
+
+## ok
+
 # AUTHOR
 
 Graham Ollis <plicease@cpan.org>
